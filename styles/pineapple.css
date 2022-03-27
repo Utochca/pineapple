@@ -1,0 +1,25 @@
+td{
+   height: 6px; 
+   border: 0px solid #b6b1b1;
+}
+
+table{
+    border: 0px solid #b6b1b1;
+    width: 600px;
+    height: 600px;
+    border: 1;
+    padding: 0;
+    border-spacing: 0;
+}
+
+.greenColor{
+    background-color: #328e50;
+}
+
+.orangecolor{
+    background-color: #d2451f;
+}
+
+.yellowcolor{
+    background-color: #f7a825;
+}
